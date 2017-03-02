@@ -1,2 +1,2 @@
 # thesis
-Autonomous UAV Search and Rescure
+Autonomous UAV Search and Rescue
